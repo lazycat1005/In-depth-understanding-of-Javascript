@@ -14,7 +14,7 @@
 
 body {
 
-    background-image: url(BG.jpg);
+    background-image: url(../img/BG.jpg);
     background-size: cover;
     font-weight: 300;
     position: relative;
